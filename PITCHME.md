@@ -1,16 +1,16 @@
 # Remote Working
 
-### Catching The Big Fish for The Nine-to-Fivers
+### Catching The Big Fish for The Nine-to-Five Worker
 
 ---
 
 # Introduction
 
 
-### Diky Hadna
-### Joined Pythonthusiast at mid 2017
-### Currently: A fulltime employee | A half-time remote worker
-### Skill area: Python, NLP, Chatbot
+- Diky Hadna
+- Joined Pythonthusiast at mid 2017
+- Currently: A fulltime employee | A half-time remote worker
+- Skill area: Python, NLP, Chatbot
 
 ---
 
@@ -63,5 +63,5 @@ A remote employee of a chatbot-focused company based in Netherlands
 
 # Thanks!
 
-## Telegram: @dkyhd
-## Medium: @dkhd (https://medium.com/@dkhd)
+### Telegram: @dkyhd
+### Medium: @dkhd (https://medium.com/@dkhd)
