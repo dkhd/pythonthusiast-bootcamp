@@ -22,7 +22,7 @@
 
 ---
 
-## Advantage
+## Advantages
 
 - You are safe financially |
 - Take a rest whenever you want |
@@ -30,7 +30,7 @@
 
 ---
 
-## Disadvantage
+## Disadvantages
 
 - Super tired! |
 - Limited availability |
@@ -55,9 +55,13 @@ A remote employee of a chatbot-focused company based in Netherlands
 
 ## Personal Branding
 
-- Written & English only
-- Use popular platform
+- Written & English only |
+- Use popular platform |
+- Be specific on your skill |
 
 ---
 
 # Thanks!
+
+## Telegram: @dkyhd
+## Medium: @dkhd (https://medium.com/@dkhd)
